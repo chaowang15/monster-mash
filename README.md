@@ -40,4 +40,5 @@ e: Recording trajectory and animation too. Please it again to stop recording.
 Space: pause aimation
 s: Save all things into a zip file. Default: `/tmp/mm_project.zip`
 l (lowercase L): load project zip file. 
+n: reset entire scene.
 ```
